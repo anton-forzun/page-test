@@ -1,7 +1,8 @@
-import ViteSassPlugin from 'vite-plugin-sass';
+
 
 export default {
+  base: '/page-test/',
   plugins: [
-    ViteSassPlugin(),
+    
   ],
 };
